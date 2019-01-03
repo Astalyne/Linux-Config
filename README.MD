@@ -54,3 +54,11 @@ E5AJGE7Ps3BBRXCn+xpT7ZH9Ia815djEfnrwDrd7y7f1xjhNrnvXr3su4OJGYr8h
 .rsa.pub key:
 
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDTGe5Q11bxEyr+N98vgk5zIljwyhxk53k0xws2Obe0ZJlqGC9Ra1azZDTZaRC1m/+6EIQsYEXBdTJRGRdt2XtILBC/nkUQZg/2kPqXwomnfJW69vWtDkJtEN9fBzFmYYo4x+2OJAZeuJm2jUwqT1sYKkKnVtaMVQzF9i7A5oSFi7SlABLeHjk+zs3Yw/vDrk9YPWALs4/2sW1ACwEIo7NHZ6cqbB7uNXVfhcYzmdhWHOXV/XTGFBrX7FS7iJqQ47Lz979l71cScR+Y2FzBTRw6+L99xDWO5gAmMyTnz0US2AazHO6f7BVoZ4OuToTaw1ZkOqQsnqbJqmUhgaf62qgH vagrant@vagrant
+
+
+
+---
+Third party resources used:
+https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+helped a lot in forming a concept of the steps to do
+https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-ubuntu-quickstart
