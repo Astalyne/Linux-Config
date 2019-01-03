@@ -5,19 +5,19 @@ http://ec2-3-122-93-173.eu-central-1.compute.amazonaws.com/
 
 
 
-Config:
-Created the user Grader and gave it super user privileges
-Then entered the user grader to the SSH login
-disabled password Authentication
+Config:---
+Created the user Grader and gave it super user privileges-----
+Then entered the user grader to the SSH login--
+disabled password Authentication--
 
 
-Modified the port from 22 to 2200 and added it to the firewall through UFW commands
-Cloned the catalog app rep
-Configured Apache and created a config file
-For the database, postgresSQL was used
+Modified the port from 22 to 2200 and added it to the firewall through UFW commands---
+Cloned the catalog app rep----
+Configured Apache and created a config file----
+For the database, postgresSQL was used---
 
 
-To SSH as Grader
+To SSH as Grader----
 
 .rsa file key:
 -----BEGIN RSA PRIVATE KEY-----
@@ -50,7 +50,7 @@ lKZD5KMDoeNNZDt5CiR7/tV0n4AM0+cnnCeYF75Q+cv5k1GZl85OEHcpJIGGxN0X
 dPLf/elefre9b3G5InqUAgnKk4LXXi5hwvoBcvaPTGT+x6acN944a9dBzhJZweTE
 E5AJGE7Ps3BBRXCn+xpT7ZH9Ia815djEfnrwDrd7y7f1xjhNrnvXr3su4OJGYr8h
 -----END RSA PRIVATE KEY-----
-
+-----
 .rsa.pub key:
 
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDTGe5Q11bxEyr+N98vgk5zIljwyhxk53k0xws2Obe0ZJlqGC9Ra1azZDTZaRC1m/+6EIQsYEXBdTJRGRdt2XtILBC/nkUQZg/2kPqXwomnfJW69vWtDkJtEN9fBzFmYYo4x+2OJAZeuJm2jUwqT1sYKkKnVtaMVQzF9i7A5oSFi7SlABLeHjk+zs3Yw/vDrk9YPWALs4/2sW1ACwEIo7NHZ6cqbB7uNXVfhcYzmdhWHOXV/XTGFBrX7FS7iJqQ47Lz979l71cScR+Y2FzBTRw6+L99xDWO5gAmMyTnz0US2AazHO6f7BVoZ4OuToTaw1ZkOqQsnqbJqmUhgaf62qgH vagrant@vagrant
